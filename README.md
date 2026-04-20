@@ -1,8 +1,8 @@
 # 📚 Praktikum Pra UTS (OOP) Java
 
 ## 👤 Identitas
-**Nama:** (Isi Nama Kamu)  
-**NIM:** (Isi NIM Kamu)  
+**Nama:** Alfida Khaira Annasa  
+**NIM:** I.2510002 
 **Mata Kuliah:** Pemrograman Berorientasi Objek (OOP)  
 **Bahasa:** Java  
 
