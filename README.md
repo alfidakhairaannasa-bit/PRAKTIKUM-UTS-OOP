@@ -1,4 +1,4 @@
-# 📚 Praktikum Pemrograman Berorientasi Objek (OOP) Java
+# 📚 Praktikum Pra UTS (OOP) Java
 
 ## 👤 Identitas
 **Nama:** (Isi Nama Kamu)  
